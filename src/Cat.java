@@ -26,6 +26,7 @@ public class Cat {
 
     public void status(){
         System.out.println("Name: " + name + "\nx: " + x + "\nDirection: " + direction);
-        System.out.println("*****************************");
+        System.out.println("******************************");
     }
+
 }
