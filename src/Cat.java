@@ -28,5 +28,4 @@ public class Cat {
         System.out.println("Name: " + name + "\nx: " + x + "\nDirection: " + direction);
         System.out.println("******************************");
     }
-
 }
